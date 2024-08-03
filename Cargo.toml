@@ -1,0 +1,15 @@
+[package]
+name = "tfbin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tui = "0.19"
+crossterm = "0.25"
+# eframe = "0.21.0"
+# iced = "0.9"
+# tempfile = "3.3"
+# rfd = "0.12" # Check for the latest version on crates.io
+native-dialog = "0.5" # Check for the latest version on crates.io
